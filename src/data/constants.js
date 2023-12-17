@@ -11,7 +11,7 @@ export const Bio = {
   github: "https://github.com/MFahim786",
   resume:
     "https://drive.google.com/file/d/1f6ViITrQYhomA-s0Q_Wx1F1FInHtUTFV/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  linkedin: "https://linkedin.com/in/m-fahim-reactnativedevolper",
 };
 
 export const skills = [
